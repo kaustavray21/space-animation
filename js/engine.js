@@ -1,6 +1,6 @@
 import { Star } from "./components/Star.js";
 import { Asteroid } from "./components/Asteroid.js";
-import { Planet } from "./components/planet.js";
+import { Planet } from "./components/Planet.js";
 import { Sun } from "./components/Sun.js";
 import { SpaceDust } from "./components/SpaceDust.js";
 import { Spaceship } from "./components/Spaceship.js";
